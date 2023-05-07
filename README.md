@@ -2,7 +2,7 @@ Hi there 👋
 I am Kaseax, a java, kotlin & web-developer located in Germany.
 
 📫 How to reach me:
-- Discord: Kaseax#8514
+- Discord: Fynn#0864
 - Twitter: Kaseaxx
 
 ---
