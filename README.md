@@ -23,6 +23,9 @@ I am Kaseax, a java, kotlin & web-developer located in Germany.
   - TypeScript
   - Flutter & Dart
 
+## Languages, that I learn:
+  - Swift
+
 ---
 ### Tools I use: 
   - PHPStorm (JetBrains Toolbox)
