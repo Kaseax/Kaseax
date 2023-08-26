@@ -34,20 +34,6 @@ I am Kaseax, a java, kotlin & web-developer located in Germany.
   - DataGrip (JetBrains Toolbox)
   - Android Studio (JetBrains Toolbox)
 
-<p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=Kaseax&show_icons=true&theme=dark"  />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaseax&layout=compact&theme=dark" />
-</p>
-
-<br><br>
-
-<details>
-    <summary>:zap: Code Activity</summary>
-    <pre>
-        <img alt="Code activity" src="https://wakatime.com/share/@e4c440a2-812b-47d5-a001-513731df4423/9d7c1a69-c8be-48da-8b3d-9811e149ce98.svg" height="400" />    
-    </pre>
-</details>
-
 <details>
     <summary>:zap: GitHub Trophy</summary>
     <pre>
