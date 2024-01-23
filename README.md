@@ -1,42 +1,10 @@
-Hi there 👋
-I am Kaseax, a java, kotlin & web-developer located in Germany.
+### Hello there 👋
 
-📫 How to reach me:
-- Discord: Fynn#0864
-- Twitter: Kaseaxx
+#### A Full-Stack Developer by day ☼ and night ☾
 
----
+Administrator at [Winterhost](https://winterhost.de/);<br>
 
-## My Projects ##
-  - https://winterhost.de - free hosting company
-  - Most of my projects aren't opensource atm. 
-
----
-
-## Languages, that I know:
-  - Java
-  - Kotlin
-  - PHP
-  - HTML/CSS 
-  - SQL
-  - JavaScript
-  - TypeScript
-  - Flutter & Dart
-
-## Languages, that I learn:
-  - Swift
-
----
-### Tools I use: 
-  - PHPStorm (JetBrains Toolbox)
-  - WebStorm (JetBrains Toolbox)
-  - IntelliJ IDEA (JetBrains Toolbox)
-  - DataGrip (JetBrains Toolbox)
-  - Android Studio (JetBrains Toolbox)
-
-<details>
-    <summary>:zap: GitHub Trophy</summary>
-    <pre>
-        <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaseax" /></a> </p>
-    </pre>
-</details>
+- ⚙️ I use daily: `.java`, `.kt`, `.php`, `.js`, `.ts`, `.html`, `.css`
+- 🌍 I'm mostly active within the **Minecraft Community**
+- 💅 Designed: @winterhost,me), etc…
+- 💬 `ping` me about **design**, **branding**, **development**, **design thinking**
